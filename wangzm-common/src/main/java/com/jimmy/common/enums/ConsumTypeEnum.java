@@ -12,7 +12,7 @@ package com.jimmy.common.enums;
  * @date 2017年4月25日 下午3:50:05
  * @version V1.0
  */
-public enum ConsumTypeEnum {
+public enum ConsumTypeEnum {  
 
 	BUY_COURSE(1, "购买课程"),			// 购买课程	
 	RECHARGE(2, "充值");				// 充值
